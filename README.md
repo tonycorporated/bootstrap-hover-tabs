@@ -1,1 +1,2 @@
-# bootstrap-hover-tabs
+Bootstrap Hover Tabs Plugin
+===========================
