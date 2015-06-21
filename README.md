@@ -3,7 +3,7 @@ Bootstrap Hover Tabs
 
 This is a super-simple and lightweight plugin for Bootstrap which allows you to activate tabs on hover.
 
-**Note:** This plugin is also available via [Bootstrap Plugins](http://bootstrap.tonystar.me/plugins) — the ultimate set of must-have plugins for Bootstrap.
+**Note:** This plugin is also available via [Bootstrap Plugins](https://github.com/tonystar/bootstrap-plugins) — the ultimate set of must-have plugins for Bootstrap.
 
 Usage
 -----
