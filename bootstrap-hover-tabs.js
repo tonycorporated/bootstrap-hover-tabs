@@ -1,6 +1,6 @@
 (function ($) {
   $(function () {
-    $(document).on('mouseenter', '[data-hover="tab"]', function () {
+    $(document).on('mouseenter', '[data-toggle="tab"]', function () {
       $(this).tab('show');
     });
   });
