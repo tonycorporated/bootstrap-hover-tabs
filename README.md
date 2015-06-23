@@ -22,4 +22,4 @@ Usage
 
 No instructions here! Just follow the **Installation** section and you are done!
 
-## [Example & Docs →](http://bootstrap.tonystar.me/hover-tabs)
+## [Docs & Demo →](http://go.tonystar.me/bootstrap-hover-tabs/gh)
