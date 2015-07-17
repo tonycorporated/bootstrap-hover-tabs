@@ -5,6 +5,8 @@ This is a super-simple and lightweight plugin for Bootstrap which automatically 
 
 **Note:** This plugin is also available via [Bootstrap Plugins](https://github.com/tonystar/bootstrap-plugins) — the ultimate set of must-have plugins for Bootstrap.
 
+## [Demo →](https://bootstrap.tonystar.me/hover-tabs#demo)
+
 Installation
 ------------
 
@@ -22,4 +24,4 @@ Usage
 
 No instructions here! Just follow the **Installation** section and you are done!
 
-## [Docs & Demo →](http://go.tonystar.me/bootstrap-hover-tabs/gh)
+## [Read more](https://bootstrap.tonystar.me/hover-tabs#main)
